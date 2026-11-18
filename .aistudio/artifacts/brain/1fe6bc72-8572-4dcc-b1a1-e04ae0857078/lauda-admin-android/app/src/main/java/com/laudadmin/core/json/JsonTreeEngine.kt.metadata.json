@@ -1,0 +1,5 @@
+{
+  "summary": "Kotlin UndoRedoManager and JsonTreeEngine supporting undo/redo history stack and type-safe JSON mutations",
+  "updatedAt": "2026-11-18T03:53:32.078588748Z",
+  "userFacing": true
+}

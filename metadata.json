@@ -1,0 +1,6 @@
+{
+  "name": "LAUDA Admin",
+  "description": "Material 3 GitHub JSON Administration Platform for visual configuration editing, type-safe validation, SHA conflict protection, and direct commits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
